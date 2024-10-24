@@ -1,0 +1,40 @@
+#logo{
+    width: 12rem;
+}
+
+#lupa{
+    width: 3rem;
+    transform: translate3d(10px, 17px, 10px);
+}
+
+header{
+   background-color: brown; 
+}
+
+body{
+
+    background-image: url('../img/fondoPantalla.avif');
+        background-size: cover; /* Para cubrir toda la pantalla */
+        background-repeat: no-repeat; /* Evita que la imagen se repita */
+    
+}
+
+h2, h3{
+    color: chartreuse;
+}
+
+#seguimientoPagina{
+    color: yellow;
+}
+
+/* -------------- CUERPO ----------------*/
+
+/*-------- FORMULARIO -----------*/
+
+#fondoFormulario{
+    margin: 23rem;
+    width: 55%;
+    background-color: rgba(141, 9, 29, 0.836);
+    border-radius: 15px;
+    padding: 2rem;
+};
